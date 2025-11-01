@@ -1,1 +1,1 @@
-# Dynamic-Array
+# Dynamic-Array This code simulates a list of `n` dynamic sequences, performing either append or retrieve operations based on queries, where the index is computed using `(x XOR lastAnswer) % n`. The `dynamicArray` function returns a list of results from type-2 queries, and `Main` handles input/output for these operations.
